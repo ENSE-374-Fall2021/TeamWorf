@@ -4,4 +4,4 @@
 ---
 
 # Project Demo / Commercial
-[Link to demo here](https://youtu.be/ShDm7wdnzho)
+[Commercial](https://www.youtube.com/watch?v=7c4R_7EMyBg)
