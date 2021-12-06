@@ -4,4 +4,4 @@
 ---
 
 # Project Demo / Commercial
-[Link to demo here]( https://github.com/KhelanNatha/ENSE-374-Team-Project)
+[Link to demo here](https://youtu.be/ShDm7wdnzho)
