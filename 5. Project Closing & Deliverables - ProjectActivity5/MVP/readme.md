@@ -4,7 +4,7 @@
 
 - The following instructions rely on the user having Node.js + npm and MongoDB installed on their system first.
 
-- Download the .zip file off the main page (https://github.com/paranjaa/ENSE-374-Team-Project), and open the MVP folder - run terminal from within that folder.
+- Download the .zip file off the main page (https://github.com/KhelanNatha/ENSE-374-Team-Project), and open the MVP folder - run terminal from within that folder.
 
 - In the terminal, run the following commands:
   - `npm init`
