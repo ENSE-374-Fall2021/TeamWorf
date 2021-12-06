@@ -1,7 +1,7 @@
 # ENSE-374-Team-Project
 ### This is the repository for Team Worf’s Group Project. ShareNote is a web app for writing and sharing notes.
 
-As a team we underwent the following stages typical in a software project life cycle:
+As a team we explored the following stages typical in a software project life cycle:
 - Project Initiating & Planning
 - Software Design
 - Software Construction
